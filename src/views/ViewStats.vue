@@ -18,13 +18,6 @@
         </tr>
       </tbody>
     </table>
-    <input
-      v-model="loveNoteballs"
-      class="input"
-      type="text"
-      placeholder="Do you love noteballs??"
-      v-autofocus
-    />
   </div>
 </template>
 
